@@ -14,18 +14,14 @@
 <h3 align="center">B.Tech CSE @ SRM Institute of Science and Technology | CGPA 9.55/10</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LetMeCraft&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
   <a href="mailto:meetarpit.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-meetarpit.codes%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arpit" />
+    <img src="https://img.shields.io/badge/Gmail-meetarpit.codes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/LetMeCraft/">
-    <img src="https://img.shields.io/badge/LinkedIn-LetMeCraft-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-LetMeCraft-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LetMeCraft">
-    <img src="https://img.shields.io/badge/GitHub-LetMeCraft-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.google.com/maps/place/Chennai,+Tamil+Nadu">
-    <img src="https://img.shields.io/badge/Chennai-Tamil%20Nadu-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chennai, Tamil Nadu" />
+  <a href="https://leetcode.com/u/LetMeCraft/">
+    <img src="https://img.shields.io/badge/LeetCode-LetMeCraft-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -142,31 +138,57 @@
 
 ---
 
-## Education and Highlights
+## Education
 
 | What | Details |
 | --- | --- |
 | B.Tech CSE | S.R.M Institute of Science and Technology, Kattankulathur, Jun 2023 - May 2027, CGPA 9.55/10 |
 | Class XII | S.P. Smart Higher Secondary School, JKBOSE, 86.8% |
 | Class X | S.P. Smart Higher Secondary School, JKBOSE, 93% |
-| Engineering Unplugged | 2nd Place, ECE Department, Jan 2026 |
-| Smart India Hackathon | Participant, Government of India, Sep 2024 |
+
+## Achievements
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Engineering Unplugged</h3>
+      <p><strong>2nd Place</strong> | ECE Department | Jan 2026</p>
+      <p>Recognized for engineering thinking, presentation, and practical problem-solving.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Smart India Hackathon</h3>
+      <p><strong>Participant</strong> | Government of India | Sep 2024</p>
+      <p>Built in a national innovation environment focused on real-world problem statements.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Analytics
+## Developer Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LetMeCraft&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Arpit's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LetMeCraft&theme=tokyonight&hide_border=true" alt="Arpit's GitHub streak" />
+  <img width="830" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LetMeCraft&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetMeCraft&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LetMeCraft&theme=tokyonight" alt="Repositories per language" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LetMeCraft&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetMeCraft&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LetMeCraft&theme=tokyonight" alt="GitHub stats summary" />
+  <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LetMeCraft&theme=tokyonight&utcOffset=5.5" alt="Productive time summary" />
+</p>
+
+<p align="center">
+  <img width="540" src="https://github-readme-streak-stats.herokuapp.com/?user=LetMeCraft&theme=tokyonight&hide_border=true&card_width=540" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/LetMeCraft/">
+    <img width="500" src="https://leetcard.jacoblin.cool/LetMeCraft?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 ---
@@ -191,8 +213,8 @@
   <a href="https://linkedin.com/in/LetMeCraft/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/LetMeCraft">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://leetcode.com/u/LetMeCraft/">
+    <img src="https://img.shields.io/badge/LeetCode-LetMeCraft-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
